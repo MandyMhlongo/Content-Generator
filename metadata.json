@@ -1,0 +1,6 @@
+{
+  "name": "Copy of Mandy Creative Content Generator",
+  "description": "An AI-powered application to generate various types of creative content like stories, poems, and character bios using prompt templates and the Gemini API.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
