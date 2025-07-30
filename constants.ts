@@ -1,7 +1,7 @@
 
 import { PromptCategory, PromptTemplate } from './types';
 
-export const API_MODEL_NAME = 'gemini-2.0-flash-preview-04-17';
+export const API_MODEL_NAME = 'gemini-2.5-flash';
 
 export const PROMPT_TEMPLATES: PromptTemplate[] = [
   // Story Templates (5 total)
